@@ -1,0 +1,63 @@
+ Pradiniai duomenys
+---------------------------------------------------------------------------------------------------------
+ Pavardė        Adresas                    Pradžia  Ilgis  Leidinys                    Kaina   Pajamos
+---------------------------------------------------------------------------------------------------------
+ Petraitis      Vilniaus g. 5, Kaunas            1     12  Kauno diena                  9.50    114.00
+ Jonaitis       Savanorių pr. 10, Kaunas         3      4  Žmonės                       4.20     16.80
+ Kazlauskas     Laisvės al. 2, Kaunas            1      6  Veidas                       5.00     30.00
+ Šimkus         Taikos pr. 44, Kaunas            6      7  Kauno diena                  9.50     66.50
+ Abromaitė      Pramonės pr. 3, Kaunas           2      3  Žmonės                       4.20     12.60
+ Ūsas           Kęstučio g. 15, Kaunas           9      2  Iliustruotasis mokslas       6.90     13.80
+ Butkus         Vilniaus g. 7, Kaunas            5      5  Veidas                       5.00     25.00
+ Čepulis        Gedimino g. 20, Kaunas           1      3  Iliustruotasis mokslas       6.90     20.70
+ Jonaitis       Savanorių pr. 10, Kaunas         1     12  Veidas                       5.00     60.00
+ Petraitis      Vilniaus g. 5, Kaunas            4      2  Žmonės                       4.20      8.40
+---------------------------------------------------------------------------------------------------------
+
+ Didžiausių pajamų leidiniai kiekvieną mėnesį
+-----------------------------------------------------------
+ Mėn. Pavadinimas    Pajamos, Eur  Leidinys (-iai)
+-----------------------------------------------------------
+   1  Sausis               10.00  Veidas
+   2  Vasaris              10.00  Veidas
+   3  Kovas                10.00  Veidas
+   4  Balandis             12.60  Žmonės
+   5  Gegužė               15.00  Veidas
+   6  Birželis             19.00  Kauno diena
+   7  Liepa                19.00  Kauno diena
+   8  Rugpjūtis            19.00  Kauno diena
+   9  Rugsėjis             19.00  Kauno diena
+  10  Spalis               19.00  Kauno diena
+  11  Lapkritis            19.00  Kauno diena
+  12  Gruodis              19.00  Kauno diena
+-----------------------------------------------------------
+
+ Leidinių pajamos
+--------------------------------------
+ Leidinys                 Pajamos, Eur
+--------------------------------------
+ Iliustruotasis mokslas          34.50
+ Kauno diena                    180.50
+ Veidas                         115.00
+ Žmonės                          37.80
+--------------------------------------
+
+ Bendrosios leidinių pajamos: 367.80 Eur
+ Vidutinės vieno leidinio pajamos: 91.95 Eur
+
+ Leidiniai, kurių pajamos mažesnės už vidutines
+--------------------------------------
+ Leidinys                 Pajamos, Eur
+--------------------------------------
+ Iliustruotasis mokslas          34.50
+ Žmonės                          37.80
+--------------------------------------
+
+ Leidinio "Veidas" prenumeratoriai, mėnuo: 2 (Vasaris)
+------------------------------------------------------------
+ Pavardė        Adresas                    Laikotarpis (mėn.)
+------------------------------------------------------------
+ Jonaitis       Savanorių pr. 10, Kaunas    1 - 12
+ Kazlauskas     Laisvės al. 2, Kaunas       1 -  6
+------------------------------------------------------------
+

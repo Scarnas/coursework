@@ -1,0 +1,10 @@
+Petraitis; Vilniaus g. 5, Kaunas; 1; 12; Kauno diena; 9.50
+Jonaitis; Savanorių pr. 10, Kaunas; 3; 4; Žmonės; 4.20
+Kazlauskas; Laisvės al. 2, Kaunas; 1; 6; Veidas; 5.00
+Šimkus; Taikos pr. 44, Kaunas; 6; 7; Kauno diena; 9.50
+Abromaitė; Pramonės pr. 3, Kaunas; 2; 3; Žmonės; 4.20
+Ūsas; Kęstučio g. 15, Kaunas; 9; 2; Iliustruotasis mokslas; 6,90
+Butkus; Vilniaus g. 7, Kaunas; 5; 5; Veidas; 5.00
+Čepulis; Gedimino g. 20, Kaunas; 1; 3; Iliustruotasis mokslas; 6.90
+Jonaitis; Savanorių pr. 10, Kaunas; 1; 12; Veidas; 5.00
+Petraitis; Vilniaus g. 5, Kaunas; 4; 2; Žmonės; 4.20

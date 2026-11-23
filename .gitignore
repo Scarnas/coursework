@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+.Rproj.user/
+.RData
+.Rhistory
+.DS_Store
